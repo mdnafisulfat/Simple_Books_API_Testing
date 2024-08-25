@@ -1,7 +1,5 @@
 # Simple_Books_API_Testing
-This repository contains a Postman collection for testing the Simple Books API. The API allows you to view books, create and manage orders, and register API clients.
-
-This project demonstrates API testing using Postman. The tests cover various endpoints provided by the Simple Books API, including book retrieval, order creation, and client registration.
+This repository contains a Postman collection for testing the Simple Books API. The API allows you to view books, create and manage orders, and register API clients. This project demonstrates API testing using Postman. The tests cover various endpoints provided by the Simple Books API, including book retrieval, order creation, and client registration.
 
 URL- https://simple-books-api.glitch.me
 
