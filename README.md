@@ -5,7 +5,7 @@ This project demonstrates API testing using Postman. The tests cover various end
 
 URL- https://simple-books-api.glitch.me
 
-Endpoints Tested
+Endpoints Tested - 
 
 GET /status - Checks the status of the API.
 
